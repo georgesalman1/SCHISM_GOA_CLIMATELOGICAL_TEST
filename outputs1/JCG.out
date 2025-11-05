@@ -1,0 +1,2016 @@
+
+
+********CG Solve at timestep        1
+Itn, 2Norm, Rnorm:      0  0.657270E+05  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.110886E+01  0.168707E-04
+Itn, 2Norm, Rnorm:    100  0.936973E-04  0.142555E-08
+ JCG converged in          135  iterations
+
+
+********CG Solve at timestep        2
+Itn, 2Norm, Rnorm:      0  0.828594E+05  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.297247E+01  0.358737E-04
+Itn, 2Norm, Rnorm:    100  0.114993E-03  0.138781E-08
+ JCG converged in          137  iterations
+
+
+********CG Solve at timestep        3
+Itn, 2Norm, Rnorm:      0  0.875162E+05  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.393099E+01  0.449173E-04
+Itn, 2Norm, Rnorm:    100  0.558290E-03  0.637927E-08
+ JCG converged in          140  iterations
+
+
+********CG Solve at timestep        4
+Itn, 2Norm, Rnorm:      0  0.127591E+06  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.125774E+02  0.985756E-04
+Itn, 2Norm, Rnorm:    100  0.881758E-03  0.691080E-08
+ JCG converged in          140  iterations
+
+
+********CG Solve at timestep        5
+Itn, 2Norm, Rnorm:      0  0.132665E+06  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.307851E+02  0.232052E-03
+Itn, 2Norm, Rnorm:    100  0.211723E-02  0.159592E-07
+ JCG converged in          141  iterations
+
+
+********CG Solve at timestep        6
+Itn, 2Norm, Rnorm:      0  0.149529E+06  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.451300E+02  0.301813E-03
+Itn, 2Norm, Rnorm:    100  0.305297E-02  0.204172E-07
+ JCG converged in          141  iterations
+
+
+********CG Solve at timestep        7
+Itn, 2Norm, Rnorm:      0  0.172819E+06  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.659866E+02  0.381824E-03
+Itn, 2Norm, Rnorm:    100  0.393755E-02  0.227842E-07
+ JCG converged in          143  iterations
+
+
+********CG Solve at timestep        8
+Itn, 2Norm, Rnorm:      0  0.188114E+06  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.745239E+02  0.396163E-03
+Itn, 2Norm, Rnorm:    100  0.459192E-02  0.244103E-07
+ JCG converged in          144  iterations
+
+
+********CG Solve at timestep        9
+Itn, 2Norm, Rnorm:      0  0.193011E+06  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.822050E+02  0.425909E-03
+Itn, 2Norm, Rnorm:    100  0.561499E-02  0.290916E-07
+ JCG converged in          145  iterations
+
+
+********CG Solve at timestep       10
+Itn, 2Norm, Rnorm:      0  0.213401E+06  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.917411E+02  0.429900E-03
+Itn, 2Norm, Rnorm:    100  0.576257E-02  0.270035E-07
+ JCG converged in          145  iterations
+
+
+********CG Solve at timestep       11
+Itn, 2Norm, Rnorm:      0  0.227122E+06  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.104743E+03  0.461176E-03
+Itn, 2Norm, Rnorm:    100  0.701788E-02  0.308992E-07
+ JCG converged in          146  iterations
+
+
+********CG Solve at timestep       12
+Itn, 2Norm, Rnorm:      0  0.238766E+06  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.117336E+03  0.491426E-03
+Itn, 2Norm, Rnorm:    100  0.613601E-02  0.256989E-07
+ JCG converged in          147  iterations
+
+
+********CG Solve at timestep       13
+Itn, 2Norm, Rnorm:      0  0.259256E+06  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.127224E+03  0.490726E-03
+Itn, 2Norm, Rnorm:    100  0.608304E-02  0.234635E-07
+ JCG converged in          146  iterations
+
+
+********CG Solve at timestep       14
+Itn, 2Norm, Rnorm:      0  0.283152E+06  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.133083E+03  0.470007E-03
+Itn, 2Norm, Rnorm:    100  0.767804E-02  0.271163E-07
+ JCG converged in          146  iterations
+
+
+********CG Solve at timestep       15
+Itn, 2Norm, Rnorm:      0  0.291806E+06  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.140952E+03  0.483035E-03
+Itn, 2Norm, Rnorm:    100  0.771786E-02  0.264486E-07
+ JCG converged in          146  iterations
+
+
+********CG Solve at timestep       16
+Itn, 2Norm, Rnorm:      0  0.312506E+06  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.136834E+03  0.437860E-03
+Itn, 2Norm, Rnorm:    100  0.369019E-02  0.118084E-07
+ JCG converged in          141  iterations
+
+
+********CG Solve at timestep       17
+Itn, 2Norm, Rnorm:      0  0.321719E+06  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.152934E+03  0.475364E-03
+Itn, 2Norm, Rnorm:    100  0.869047E-02  0.270126E-07
+ JCG converged in          145  iterations
+
+
+********CG Solve at timestep       18
+Itn, 2Norm, Rnorm:      0  0.335690E+06  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.155408E+03  0.462953E-03
+Itn, 2Norm, Rnorm:    100  0.111051E-01  0.330815E-07
+ JCG converged in          144  iterations
+
+
+********CG Solve at timestep       19
+Itn, 2Norm, Rnorm:      0  0.342633E+06  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.165351E+03  0.482588E-03
+Itn, 2Norm, Rnorm:    100  0.124993E-01  0.364802E-07
+ JCG converged in          144  iterations
+
+
+********CG Solve at timestep       20
+Itn, 2Norm, Rnorm:      0  0.359688E+06  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.170731E+03  0.474664E-03
+Itn, 2Norm, Rnorm:    100  0.129873E-01  0.361071E-07
+ JCG converged in          144  iterations
+
+
+********CG Solve at timestep       21
+Itn, 2Norm, Rnorm:      0  0.364808E+06  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.170933E+03  0.468556E-03
+Itn, 2Norm, Rnorm:    100  0.132212E-01  0.362414E-07
+ JCG converged in          145  iterations
+
+
+********CG Solve at timestep       22
+Itn, 2Norm, Rnorm:      0  0.376394E+06  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.176054E+03  0.467739E-03
+Itn, 2Norm, Rnorm:    100  0.129900E-01  0.345117E-07
+ JCG converged in          145  iterations
+
+
+********CG Solve at timestep       23
+Itn, 2Norm, Rnorm:      0  0.392015E+06  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.183895E+03  0.469102E-03
+Itn, 2Norm, Rnorm:    100  0.120392E-01  0.307110E-07
+ JCG converged in          145  iterations
+
+
+********CG Solve at timestep       24
+Itn, 2Norm, Rnorm:      0  0.407237E+06  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.186703E+03  0.458461E-03
+Itn, 2Norm, Rnorm:    100  0.547771E-02  0.134509E-07
+ JCG converged in          146  iterations
+
+
+********CG Solve at timestep       25
+Itn, 2Norm, Rnorm:      0  0.427083E+06  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.210368E+03  0.492569E-03
+Itn, 2Norm, Rnorm:    100  0.123161E-01  0.288377E-07
+ JCG converged in          146  iterations
+
+
+********CG Solve at timestep       26
+Itn, 2Norm, Rnorm:      0  0.439921E+06  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.201264E+03  0.457501E-03
+Itn, 2Norm, Rnorm:    100  0.164748E-01  0.374494E-07
+ JCG converged in          146  iterations
+
+
+********CG Solve at timestep       27
+Itn, 2Norm, Rnorm:      0  0.458939E+06  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.222840E+03  0.485555E-03
+Itn, 2Norm, Rnorm:    100  0.162150E-01  0.353315E-07
+ JCG converged in          146  iterations
+
+
+********CG Solve at timestep       28
+Itn, 2Norm, Rnorm:      0  0.478533E+06  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.214129E+03  0.447469E-03
+Itn, 2Norm, Rnorm:    100  0.180332E-01  0.376844E-07
+ JCG converged in          145  iterations
+
+
+********CG Solve at timestep       29
+Itn, 2Norm, Rnorm:      0  0.495157E+06  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.244137E+03  0.493050E-03
+Itn, 2Norm, Rnorm:    100  0.173351E-01  0.350092E-07
+ JCG converged in          145  iterations
+
+
+********CG Solve at timestep       30
+Itn, 2Norm, Rnorm:      0  0.513247E+06  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.222386E+03  0.433293E-03
+Itn, 2Norm, Rnorm:    100  0.139270E-01  0.271350E-07
+ JCG converged in          145  iterations
+
+
+********CG Solve at timestep       31
+Itn, 2Norm, Rnorm:      0  0.533595E+06  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.264419E+03  0.495542E-03
+Itn, 2Norm, Rnorm:    100  0.662263E-02  0.124113E-07
+ JCG converged in          145  iterations
+
+
+********CG Solve at timestep       32
+Itn, 2Norm, Rnorm:      0  0.552452E+06  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.254373E+03  0.460443E-03
+Itn, 2Norm, Rnorm:    100  0.121933E-01  0.220713E-07
+ JCG converged in          145  iterations
+
+
+********CG Solve at timestep       33
+Itn, 2Norm, Rnorm:      0  0.572112E+06  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.282089E+03  0.493065E-03
+Itn, 2Norm, Rnorm:    100  0.168944E-01  0.295298E-07
+ JCG converged in          145  iterations
+
+
+********CG Solve at timestep       34
+Itn, 2Norm, Rnorm:      0  0.595131E+06  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.282865E+03  0.475299E-03
+Itn, 2Norm, Rnorm:    100  0.195918E-01  0.329202E-07
+ JCG converged in          145  iterations
+
+
+********CG Solve at timestep       35
+Itn, 2Norm, Rnorm:      0  0.613223E+06  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.312263E+03  0.509216E-03
+Itn, 2Norm, Rnorm:    100  0.204110E-01  0.332848E-07
+ JCG converged in          145  iterations
+
+
+********CG Solve at timestep       36
+Itn, 2Norm, Rnorm:      0  0.634565E+06  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.290187E+03  0.457300E-03
+Itn, 2Norm, Rnorm:    100  0.207043E-01  0.326276E-07
+ JCG converged in          145  iterations
+
+
+********CG Solve at timestep       37
+Itn, 2Norm, Rnorm:      0  0.663290E+06  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.345390E+03  0.520722E-03
+Itn, 2Norm, Rnorm:    100  0.209844E-01  0.316369E-07
+ JCG converged in          145  iterations
+
+
+********CG Solve at timestep       38
+Itn, 2Norm, Rnorm:      0  0.692803E+06  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.328765E+03  0.474543E-03
+Itn, 2Norm, Rnorm:    100  0.185184E-01  0.267297E-07
+ JCG converged in          146  iterations
+
+
+********CG Solve at timestep       39
+Itn, 2Norm, Rnorm:      0  0.732285E+06  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.375262E+03  0.512454E-03
+Itn, 2Norm, Rnorm:    100  0.134805E-01  0.184088E-07
+ JCG converged in          145  iterations
+
+
+********CG Solve at timestep       40
+Itn, 2Norm, Rnorm:      0  0.753135E+06  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.353607E+03  0.469513E-03
+Itn, 2Norm, Rnorm:    100  0.881584E-02  0.117055E-07
+ JCG converged in          145  iterations
+
+
+********CG Solve at timestep       41
+Itn, 2Norm, Rnorm:      0  0.780224E+06  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.386344E+03  0.495170E-03
+Itn, 2Norm, Rnorm:    100  0.122748E-01  0.157324E-07
+ JCG converged in          145  iterations
+
+
+********CG Solve at timestep       42
+Itn, 2Norm, Rnorm:      0  0.778193E+06  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.385006E+03  0.494743E-03
+Itn, 2Norm, Rnorm:    100  0.115265E-01  0.148119E-07
+ JCG converged in          145  iterations
+
+
+********CG Solve at timestep       43
+Itn, 2Norm, Rnorm:      0  0.803161E+06  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.392341E+03  0.488496E-03
+Itn, 2Norm, Rnorm:    100  0.987919E-02  0.123004E-07
+ JCG converged in          145  iterations
+
+
+********CG Solve at timestep       44
+Itn, 2Norm, Rnorm:      0  0.809084E+06  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.372782E+03  0.460745E-03
+Itn, 2Norm, Rnorm:    100  0.138911E-01  0.171690E-07
+ JCG converged in          145  iterations
+
+
+********CG Solve at timestep       45
+Itn, 2Norm, Rnorm:      0  0.832116E+06  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.412681E+03  0.495942E-03
+Itn, 2Norm, Rnorm:    100  0.205653E-01  0.247145E-07
+ JCG converged in          145  iterations
+
+
+********CG Solve at timestep       46
+Itn, 2Norm, Rnorm:      0  0.840513E+06  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.381125E+03  0.453444E-03
+Itn, 2Norm, Rnorm:    100  0.239476E-01  0.284917E-07
+ JCG converged in          145  iterations
+
+
+********CG Solve at timestep       47
+Itn, 2Norm, Rnorm:      0  0.858121E+06  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.426043E+03  0.496483E-03
+Itn, 2Norm, Rnorm:    100  0.266083E-01  0.310076E-07
+ JCG converged in          145  iterations
+
+
+********CG Solve at timestep       48
+Itn, 2Norm, Rnorm:      0  0.867875E+06  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.432543E+03  0.498393E-03
+Itn, 2Norm, Rnorm:    100  0.270647E-01  0.311850E-07
+ JCG converged in          145  iterations
+
+
+********CG Solve at timestep       49
+Itn, 2Norm, Rnorm:      0  0.885818E+06  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.436783E+03  0.493084E-03
+Itn, 2Norm, Rnorm:    100  0.279337E-01  0.315344E-07
+ JCG converged in          145  iterations
+
+
+********CG Solve at timestep       50
+Itn, 2Norm, Rnorm:      0  0.893721E+06  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.453362E+03  0.507275E-03
+Itn, 2Norm, Rnorm:    100  0.270798E-01  0.303001E-07
+ JCG converged in          145  iterations
+
+
+********CG Solve at timestep       51
+Itn, 2Norm, Rnorm:      0  0.910918E+06  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.445765E+03  0.489358E-03
+Itn, 2Norm, Rnorm:    100  0.238833E-01  0.262189E-07
+ JCG converged in          145  iterations
+
+
+********CG Solve at timestep       52
+Itn, 2Norm, Rnorm:      0  0.918105E+06  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.458103E+03  0.498966E-03
+Itn, 2Norm, Rnorm:    100  0.162310E-01  0.176788E-07
+ JCG converged in          145  iterations
+
+
+********CG Solve at timestep       53
+Itn, 2Norm, Rnorm:      0  0.936661E+06  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.457304E+03  0.488228E-03
+Itn, 2Norm, Rnorm:    100  0.123413E-01  0.131759E-07
+ JCG converged in          145  iterations
+
+
+********CG Solve at timestep       54
+Itn, 2Norm, Rnorm:      0  0.946271E+06  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.473770E+03  0.500671E-03
+Itn, 2Norm, Rnorm:    100  0.197528E-01  0.208744E-07
+ JCG converged in          145  iterations
+
+
+********CG Solve at timestep       55
+Itn, 2Norm, Rnorm:      0  0.964851E+06  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.473161E+03  0.490398E-03
+Itn, 2Norm, Rnorm:    100  0.252848E-01  0.262059E-07
+ JCG converged in          145  iterations
+
+
+********CG Solve at timestep       56
+Itn, 2Norm, Rnorm:      0  0.973591E+06  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.487387E+03  0.500608E-03
+Itn, 2Norm, Rnorm:    100  0.268927E-01  0.276222E-07
+ JCG converged in          145  iterations
+
+
+********CG Solve at timestep       57
+Itn, 2Norm, Rnorm:      0  0.992689E+06  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.471828E+03  0.475303E-03
+Itn, 2Norm, Rnorm:    100  0.264303E-01  0.266250E-07
+ JCG converged in          145  iterations
+
+
+********CG Solve at timestep       58
+Itn, 2Norm, Rnorm:      0  0.100011E+07  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.508211E+03  0.508153E-03
+Itn, 2Norm, Rnorm:    100  0.240736E-01  0.240709E-07
+ JCG converged in          145  iterations
+
+
+********CG Solve at timestep       59
+Itn, 2Norm, Rnorm:      0  0.101741E+07  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.484643E+03  0.476350E-03
+Itn, 2Norm, Rnorm:    100  0.201480E-01  0.198032E-07
+ JCG converged in          145  iterations
+
+
+********CG Solve at timestep       60
+Itn, 2Norm, Rnorm:      0  0.102157E+07  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.512860E+03  0.502032E-03
+Itn, 2Norm, Rnorm:    100  0.162982E-01  0.159541E-07
+ JCG converged in          145  iterations
+
+
+********CG Solve at timestep       61
+Itn, 2Norm, Rnorm:      0  0.103634E+07  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.512999E+03  0.495011E-03
+Itn, 2Norm, Rnorm:    100  0.134952E-01  0.130220E-07
+ JCG converged in          145  iterations
+
+
+********CG Solve at timestep       62
+Itn, 2Norm, Rnorm:      0  0.104452E+07  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.513286E+03  0.491409E-03
+Itn, 2Norm, Rnorm:    100  0.133194E-01  0.127517E-07
+ JCG converged in          145  iterations
+
+
+********CG Solve at timestep       63
+Itn, 2Norm, Rnorm:      0  0.106160E+07  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.519491E+03  0.489349E-03
+Itn, 2Norm, Rnorm:    100  0.136032E-01  0.128139E-07
+ JCG converged in          144  iterations
+
+
+********CG Solve at timestep       64
+Itn, 2Norm, Rnorm:      0  0.107326E+07  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.524611E+03  0.488800E-03
+Itn, 2Norm, Rnorm:    100  0.140964E-01  0.131341E-07
+ JCG converged in          145  iterations
+
+
+********CG Solve at timestep       65
+Itn, 2Norm, Rnorm:      0  0.109058E+07  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.529129E+03  0.485182E-03
+Itn, 2Norm, Rnorm:    100  0.173153E-01  0.158772E-07
+ JCG converged in          145  iterations
+
+
+********CG Solve at timestep       66
+Itn, 2Norm, Rnorm:      0  0.110248E+07  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.531223E+03  0.481846E-03
+Itn, 2Norm, Rnorm:    100  0.236842E-01  0.214827E-07
+ JCG converged in          145  iterations
+
+
+********CG Solve at timestep       67
+Itn, 2Norm, Rnorm:      0  0.112311E+07  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.550170E+03  0.489861E-03
+Itn, 2Norm, Rnorm:    100  0.303744E-01  0.270448E-07
+ JCG converged in          145  iterations
+
+
+********CG Solve at timestep       68
+Itn, 2Norm, Rnorm:      0  0.113551E+07  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.549070E+03  0.483546E-03
+Itn, 2Norm, Rnorm:    100  0.351024E-01  0.309134E-07
+ JCG converged in          145  iterations
+
+
+********CG Solve at timestep       69
+Itn, 2Norm, Rnorm:      0  0.115672E+07  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.565703E+03  0.489057E-03
+Itn, 2Norm, Rnorm:    100  0.368620E-01  0.318677E-07
+ JCG converged in          145  iterations
+
+
+********CG Solve at timestep       70
+Itn, 2Norm, Rnorm:      0  0.116902E+07  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.563845E+03  0.482322E-03
+Itn, 2Norm, Rnorm:    100  0.375975E-01  0.321615E-07
+ JCG converged in          145  iterations
+
+
+********CG Solve at timestep       71
+Itn, 2Norm, Rnorm:      0  0.119085E+07  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.580063E+03  0.487101E-03
+Itn, 2Norm, Rnorm:    100  0.356055E-01  0.298993E-07
+ JCG converged in          145  iterations
+
+
+********CG Solve at timestep       72
+Itn, 2Norm, Rnorm:      0  0.120270E+07  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.582546E+03  0.484363E-03
+Itn, 2Norm, Rnorm:    100  0.322490E-01  0.268137E-07
+ JCG converged in          145  iterations
+
+
+********CG Solve at timestep       73
+Itn, 2Norm, Rnorm:      0  0.122450E+07  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.600490E+03  0.490397E-03
+Itn, 2Norm, Rnorm:    100  0.282852E-01  0.230995E-07
+ JCG converged in          145  iterations
+
+
+********CG Solve at timestep       74
+Itn, 2Norm, Rnorm:      0  0.123721E+07  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.575687E+03  0.465310E-03
+Itn, 2Norm, Rnorm:    100  0.245134E-01  0.198134E-07
+ JCG converged in          145  iterations
+
+
+********CG Solve at timestep       75
+Itn, 2Norm, Rnorm:      0  0.126006E+07  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.625618E+03  0.496499E-03
+Itn, 2Norm, Rnorm:    100  0.223091E-01  0.177048E-07
+ JCG converged in          145  iterations
+
+
+********CG Solve at timestep       76
+Itn, 2Norm, Rnorm:      0  0.127019E+07  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.628590E+03  0.494878E-03
+Itn, 2Norm, Rnorm:    100  0.216799E-01  0.170682E-07
+ JCG converged in          145  iterations
+
+
+********CG Solve at timestep       77
+Itn, 2Norm, Rnorm:      0  0.129251E+07  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.645909E+03  0.499732E-03
+Itn, 2Norm, Rnorm:    100  0.234494E-01  0.181425E-07
+ JCG converged in          145  iterations
+
+
+********CG Solve at timestep       78
+Itn, 2Norm, Rnorm:      0  0.130081E+07  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.656506E+03  0.504692E-03
+Itn, 2Norm, Rnorm:    100  0.254356E-01  0.195538E-07
+ JCG converged in          145  iterations
+
+
+********CG Solve at timestep       79
+Itn, 2Norm, Rnorm:      0  0.132152E+07  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.659719E+03  0.499213E-03
+Itn, 2Norm, Rnorm:    100  0.312091E-01  0.236161E-07
+ JCG converged in          145  iterations
+
+
+********CG Solve at timestep       80
+Itn, 2Norm, Rnorm:      0  0.132809E+07  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.682641E+03  0.514002E-03
+Itn, 2Norm, Rnorm:    100  0.338807E-01  0.255108E-07
+ JCG converged in          145  iterations
+
+
+********CG Solve at timestep       81
+Itn, 2Norm, Rnorm:      0  0.134848E+07  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.675867E+03  0.501208E-03
+Itn, 2Norm, Rnorm:    100  0.388510E-01  0.288110E-07
+ JCG converged in          145  iterations
+
+
+********CG Solve at timestep       82
+Itn, 2Norm, Rnorm:      0  0.135331E+07  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.703398E+03  0.519762E-03
+Itn, 2Norm, Rnorm:    100  0.423488E-01  0.312928E-07
+ JCG converged in          145  iterations
+
+
+********CG Solve at timestep       83
+Itn, 2Norm, Rnorm:      0  0.137217E+07  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.699591E+03  0.509841E-03
+Itn, 2Norm, Rnorm:    100  0.432859E-01  0.315455E-07
+ JCG converged in          145  iterations
+
+
+********CG Solve at timestep       84
+Itn, 2Norm, Rnorm:      0  0.137622E+07  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.720719E+03  0.523696E-03
+Itn, 2Norm, Rnorm:    100  0.459461E-01  0.333858E-07
+ JCG converged in          145  iterations
+
+
+********CG Solve at timestep       85
+Itn, 2Norm, Rnorm:      0  0.139485E+07  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.715938E+03  0.513271E-03
+Itn, 2Norm, Rnorm:    100  0.434591E-01  0.311568E-07
+ JCG converged in          145  iterations
+
+
+********CG Solve at timestep       86
+Itn, 2Norm, Rnorm:      0  0.139656E+07  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.722432E+03  0.517293E-03
+Itn, 2Norm, Rnorm:    100  0.462966E-01  0.331504E-07
+ JCG converged in          145  iterations
+
+
+********CG Solve at timestep       87
+Itn, 2Norm, Rnorm:      0  0.141252E+07  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.722552E+03  0.511533E-03
+Itn, 2Norm, Rnorm:    100  0.431545E-01  0.305514E-07
+ JCG converged in          145  iterations
+
+
+********CG Solve at timestep       88
+Itn, 2Norm, Rnorm:      0  0.141396E+07  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.713682E+03  0.504739E-03
+Itn, 2Norm, Rnorm:    100  0.440877E-01  0.311803E-07
+ JCG converged in          145  iterations
+
+
+********CG Solve at timestep       89
+Itn, 2Norm, Rnorm:      0  0.142792E+07  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.727672E+03  0.509601E-03
+Itn, 2Norm, Rnorm:    100  0.442064E-01  0.309585E-07
+ JCG converged in          145  iterations
+
+
+********CG Solve at timestep       90
+Itn, 2Norm, Rnorm:      0  0.143101E+07  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.729932E+03  0.510081E-03
+Itn, 2Norm, Rnorm:    100  0.440572E-01  0.307874E-07
+ JCG converged in          145  iterations
+
+
+********CG Solve at timestep       91
+Itn, 2Norm, Rnorm:      0  0.144497E+07  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.732603E+03  0.507004E-03
+Itn, 2Norm, Rnorm:    100  0.462031E-01  0.319752E-07
+ JCG converged in          145  iterations
+
+
+********CG Solve at timestep       92
+Itn, 2Norm, Rnorm:      0  0.144931E+07  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.731795E+03  0.504928E-03
+Itn, 2Norm, Rnorm:    100  0.458487E-01  0.316349E-07
+ JCG converged in          145  iterations
+
+
+********CG Solve at timestep       93
+Itn, 2Norm, Rnorm:      0  0.146254E+07  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.735502E+03  0.502893E-03
+Itn, 2Norm, Rnorm:    100  0.487134E-01  0.333073E-07
+ JCG converged in          145  iterations
+
+
+********CG Solve at timestep       94
+Itn, 2Norm, Rnorm:      0  0.146798E+07  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.731138E+03  0.498058E-03
+Itn, 2Norm, Rnorm:    100  0.495260E-01  0.337375E-07
+ JCG converged in          145  iterations
+
+
+********CG Solve at timestep       95
+Itn, 2Norm, Rnorm:      0  0.147877E+07  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.726166E+03  0.491062E-03
+Itn, 2Norm, Rnorm:    100  0.516702E-01  0.349414E-07
+ JCG converged in          145  iterations
+
+
+********CG Solve at timestep       96
+Itn, 2Norm, Rnorm:      0  0.148713E+07  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.731824E+03  0.492106E-03
+Itn, 2Norm, Rnorm:    100  0.524540E-01  0.352720E-07
+ JCG converged in          145  iterations
+
+
+********CG Solve at timestep       97
+Itn, 2Norm, Rnorm:      0  0.149973E+07  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.728854E+03  0.485989E-03
+Itn, 2Norm, Rnorm:    100  0.529386E-01  0.352987E-07
+ JCG converged in          145  iterations
+
+
+********CG Solve at timestep       98
+Itn, 2Norm, Rnorm:      0  0.151089E+07  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.743807E+03  0.492297E-03
+Itn, 2Norm, Rnorm:    100  0.527746E-01  0.349294E-07
+ JCG converged in          145  iterations
+
+
+********CG Solve at timestep       99
+Itn, 2Norm, Rnorm:      0  0.152372E+07  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.744546E+03  0.488638E-03
+Itn, 2Norm, Rnorm:    100  0.549558E-01  0.360669E-07
+ JCG converged in          145  iterations
+
+
+********CG Solve at timestep      100
+Itn, 2Norm, Rnorm:      0  0.153513E+07  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.756318E+03  0.492673E-03
+Itn, 2Norm, Rnorm:    100  0.519199E-01  0.338212E-07
+ JCG converged in          145  iterations
+
+
+********CG Solve at timestep      101
+Itn, 2Norm, Rnorm:      0  0.154851E+07  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.755514E+03  0.487896E-03
+Itn, 2Norm, Rnorm:    100  0.498592E-01  0.321981E-07
+ JCG converged in          145  iterations
+
+
+********CG Solve at timestep      102
+Itn, 2Norm, Rnorm:      0  0.155760E+07  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.748877E+03  0.480788E-03
+Itn, 2Norm, Rnorm:    100  0.471060E-01  0.302426E-07
+ JCG converged in          145  iterations
+
+
+********CG Solve at timestep      103
+Itn, 2Norm, Rnorm:      0  0.157130E+07  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.769271E+03  0.489575E-03
+Itn, 2Norm, Rnorm:    100  0.472165E-01  0.300493E-07
+ JCG converged in          145  iterations
+
+
+********CG Solve at timestep      104
+Itn, 2Norm, Rnorm:      0  0.158141E+07  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.749136E+03  0.473715E-03
+Itn, 2Norm, Rnorm:    100  0.467445E-01  0.295588E-07
+ JCG converged in          145  iterations
+
+
+********CG Solve at timestep      105
+Itn, 2Norm, Rnorm:      0  0.159592E+07  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.764245E+03  0.478873E-03
+Itn, 2Norm, Rnorm:    100  0.463021E-01  0.290128E-07
+ JCG converged in          145  iterations
+
+
+********CG Solve at timestep      106
+Itn, 2Norm, Rnorm:      0  0.160861E+07  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.778219E+03  0.483784E-03
+Itn, 2Norm, Rnorm:    100  0.466210E-01  0.289822E-07
+ JCG converged in          145  iterations
+
+
+********CG Solve at timestep      107
+Itn, 2Norm, Rnorm:      0  0.162241E+07  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.794030E+03  0.489414E-03
+Itn, 2Norm, Rnorm:    100  0.490036E-01  0.302042E-07
+ JCG converged in          145  iterations
+
+
+********CG Solve at timestep      108
+Itn, 2Norm, Rnorm:      0  0.163360E+07  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.791979E+03  0.484805E-03
+Itn, 2Norm, Rnorm:    100  0.483632E-01  0.296052E-07
+ JCG converged in          145  iterations
+
+
+********CG Solve at timestep      109
+Itn, 2Norm, Rnorm:      0  0.164543E+07  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.781125E+03  0.474724E-03
+Itn, 2Norm, Rnorm:    100  0.511639E-01  0.310946E-07
+ JCG converged in          145  iterations
+
+
+********CG Solve at timestep      110
+Itn, 2Norm, Rnorm:      0  0.165762E+07  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.787709E+03  0.475204E-03
+Itn, 2Norm, Rnorm:    100  0.502942E-01  0.303412E-07
+ JCG converged in          145  iterations
+
+
+********CG Solve at timestep      111
+Itn, 2Norm, Rnorm:      0  0.166853E+07  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.790581E+03  0.473819E-03
+Itn, 2Norm, Rnorm:    100  0.510404E-01  0.305901E-07
+ JCG converged in          145  iterations
+
+
+********CG Solve at timestep      112
+Itn, 2Norm, Rnorm:      0  0.168229E+07  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.803764E+03  0.477779E-03
+Itn, 2Norm, Rnorm:    100  0.477121E-01  0.283614E-07
+ JCG converged in          145  iterations
+
+
+********CG Solve at timestep      113
+Itn, 2Norm, Rnorm:      0  0.169493E+07  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.807958E+03  0.476691E-03
+Itn, 2Norm, Rnorm:    100  0.455505E-01  0.268745E-07
+ JCG converged in          145  iterations
+
+
+********CG Solve at timestep      114
+Itn, 2Norm, Rnorm:      0  0.171226E+07  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.828111E+03  0.483635E-03
+Itn, 2Norm, Rnorm:    100  0.416455E-01  0.243219E-07
+ JCG converged in          145  iterations
+
+
+********CG Solve at timestep      115
+Itn, 2Norm, Rnorm:      0  0.173360E+07  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.835521E+03  0.481958E-03
+Itn, 2Norm, Rnorm:    100  0.391739E-01  0.225969E-07
+ JCG converged in          145  iterations
+
+
+********CG Solve at timestep      116
+Itn, 2Norm, Rnorm:      0  0.177421E+07  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.874245E+03  0.492751E-03
+Itn, 2Norm, Rnorm:    100  0.361514E-01  0.203760E-07
+ JCG converged in          145  iterations
+
+
+********CG Solve at timestep      117
+Itn, 2Norm, Rnorm:      0  0.183169E+07  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.881975E+03  0.481509E-03
+Itn, 2Norm, Rnorm:    100  0.348875E-01  0.190466E-07
+ JCG converged in          145  iterations
+
+
+********CG Solve at timestep      118
+Itn, 2Norm, Rnorm:      0  0.195715E+07  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.922937E+03  0.471573E-03
+Itn, 2Norm, Rnorm:    100  0.353958E-01  0.180854E-07
+ JCG converged in          145  iterations
+
+
+********CG Solve at timestep      119
+Itn, 2Norm, Rnorm:      0  0.217888E+07  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.934594E+03  0.428933E-03
+Itn, 2Norm, Rnorm:    100  0.345053E-01  0.158362E-07
+ JCG converged in          145  iterations
+
+
+********CG Solve at timestep      120
+Itn, 2Norm, Rnorm:      0  0.263049E+07  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.980525E+03  0.372754E-03
+Itn, 2Norm, Rnorm:    100  0.351954E-01  0.133798E-07
+ JCG converged in          144  iterations
+
+
+********CG Solve at timestep      121
+Itn, 2Norm, Rnorm:      0  0.340400E+07  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.988639E+03  0.290435E-03
+Itn, 2Norm, Rnorm:    100  0.360867E-01  0.106013E-07
+ JCG converged in          143  iterations
+
+
+********CG Solve at timestep      122
+Itn, 2Norm, Rnorm:      0  0.476773E+07  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.101582E+04  0.213061E-03
+Itn, 2Norm, Rnorm:    100  0.362457E-01  0.760230E-08
+ JCG converged in          142  iterations
+
+
+********CG Solve at timestep      123
+Itn, 2Norm, Rnorm:      0  0.696688E+07  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.103693E+04  0.148837E-03
+Itn, 2Norm, Rnorm:    100  0.389658E-01  0.559300E-08
+ JCG converged in          140  iterations
+
+
+********CG Solve at timestep      124
+Itn, 2Norm, Rnorm:      0  0.105124E+08  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.107526E+04  0.102285E-03
+Itn, 2Norm, Rnorm:    100  0.381963E-01  0.363345E-08
+ JCG converged in          139  iterations
+
+
+********CG Solve at timestep      125
+Itn, 2Norm, Rnorm:      0  0.160854E+08  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.116484E+04  0.724159E-04
+Itn, 2Norm, Rnorm:    100  0.398424E-01  0.247693E-08
+ JCG converged in          138  iterations
+
+
+********CG Solve at timestep      126
+Itn, 2Norm, Rnorm:      0  0.246764E+08  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.122783E+04  0.497571E-04
+Itn, 2Norm, Rnorm:    100  0.382435E-01  0.154980E-08
+ JCG converged in          137  iterations
+
+
+********CG Solve at timestep      127
+Itn, 2Norm, Rnorm:      0  0.378846E+08  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.138893E+04  0.366621E-04
+Itn, 2Norm, Rnorm:    100  0.381705E-01  0.100755E-08
+ JCG converged in          135  iterations
+
+
+********CG Solve at timestep      128
+Itn, 2Norm, Rnorm:      0  0.577110E+08  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.152572E+04  0.264373E-04
+Itn, 2Norm, Rnorm:    100  0.394480E-01  0.683543E-09
+ JCG converged in          134  iterations
+
+
+********CG Solve at timestep      129
+Itn, 2Norm, Rnorm:      0  0.840715E+08  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.168641E+04  0.200592E-04
+Itn, 2Norm, Rnorm:    100  0.425111E-01  0.505654E-09
+ JCG converged in          132  iterations
+
+
+********CG Solve at timestep      130
+Itn, 2Norm, Rnorm:      0  0.113550E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.194261E+04  0.171079E-04
+Itn, 2Norm, Rnorm:    100  0.467706E-01  0.411893E-09
+ JCG converged in          132  iterations
+
+
+********CG Solve at timestep      131
+Itn, 2Norm, Rnorm:      0  0.143367E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.211960E+04  0.147845E-04
+Itn, 2Norm, Rnorm:    100  0.521632E-01  0.363845E-09
+ JCG converged in          130  iterations
+
+
+********CG Solve at timestep      132
+Itn, 2Norm, Rnorm:      0  0.169375E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.271506E+04  0.160298E-04
+Itn, 2Norm, Rnorm:    100  0.224218E-01  0.132379E-09
+ JCG converged in          128  iterations
+
+
+********CG Solve at timestep      133
+Itn, 2Norm, Rnorm:      0  0.193953E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.288484E+04  0.148739E-04
+Itn, 2Norm, Rnorm:    100  0.620979E-01  0.320169E-09
+ JCG converged in          131  iterations
+
+
+********CG Solve at timestep      134
+Itn, 2Norm, Rnorm:      0  0.212575E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.350316E+04  0.164796E-04
+Itn, 2Norm, Rnorm:    100  0.577751E-01  0.271787E-09
+ JCG converged in          130  iterations
+
+
+********CG Solve at timestep      135
+Itn, 2Norm, Rnorm:      0  0.226410E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.320805E+04  0.141692E-04
+Itn, 2Norm, Rnorm:    100  0.703511E-01  0.310724E-09
+ JCG converged in          130  iterations
+
+
+********CG Solve at timestep      136
+Itn, 2Norm, Rnorm:      0  0.238480E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.367491E+04  0.154097E-04
+Itn, 2Norm, Rnorm:    100  0.640665E-01  0.268645E-09
+ JCG converged in          130  iterations
+
+
+********CG Solve at timestep      137
+Itn, 2Norm, Rnorm:      0  0.248864E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.327857E+04  0.131741E-04
+Itn, 2Norm, Rnorm:    100  0.746040E-01  0.299778E-09
+ JCG converged in          130  iterations
+
+
+********CG Solve at timestep      138
+Itn, 2Norm, Rnorm:      0  0.257354E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.374186E+04  0.145397E-04
+Itn, 2Norm, Rnorm:    100  0.555675E-01  0.215918E-09
+ JCG converged in          129  iterations
+
+
+********CG Solve at timestep      139
+Itn, 2Norm, Rnorm:      0  0.264401E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.326024E+04  0.123307E-04
+Itn, 2Norm, Rnorm:    100  0.747411E-01  0.282681E-09
+ JCG converged in          130  iterations
+
+
+********CG Solve at timestep      140
+Itn, 2Norm, Rnorm:      0  0.269929E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.359449E+04  0.133164E-04
+Itn, 2Norm, Rnorm:    100  0.768173E-01  0.284583E-09
+ JCG converged in          130  iterations
+
+
+********CG Solve at timestep      141
+Itn, 2Norm, Rnorm:      0  0.274555E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.301621E+04  0.109858E-04
+Itn, 2Norm, Rnorm:    100  0.817640E-01  0.297805E-09
+ JCG converged in          129  iterations
+
+
+********CG Solve at timestep      142
+Itn, 2Norm, Rnorm:      0  0.278132E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.314846E+04  0.113200E-04
+Itn, 2Norm, Rnorm:    100  0.840741E-01  0.302281E-09
+ JCG converged in          129  iterations
+
+
+********CG Solve at timestep      143
+Itn, 2Norm, Rnorm:      0  0.280997E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.296597E+04  0.105552E-04
+Itn, 2Norm, Rnorm:    100  0.838843E-01  0.298524E-09
+ JCG converged in          129  iterations
+
+
+********CG Solve at timestep      144
+Itn, 2Norm, Rnorm:      0  0.283306E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.305805E+04  0.107942E-04
+Itn, 2Norm, Rnorm:    100  0.868763E-01  0.306651E-09
+ JCG converged in          129  iterations
+
+
+********CG Solve at timestep      145
+Itn, 2Norm, Rnorm:      0  0.284924E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.295984E+04  0.103882E-04
+Itn, 2Norm, Rnorm:    100  0.859425E-01  0.301633E-09
+ JCG converged in          129  iterations
+
+
+********CG Solve at timestep      146
+Itn, 2Norm, Rnorm:      0  0.286266E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.302623E+04  0.105714E-04
+Itn, 2Norm, Rnorm:    100  0.906465E-01  0.316651E-09
+ JCG converged in          129  iterations
+
+
+********CG Solve at timestep      147
+Itn, 2Norm, Rnorm:      0  0.287038E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.296491E+04  0.103293E-04
+Itn, 2Norm, Rnorm:    100  0.903152E-01  0.314646E-09
+ JCG converged in          129  iterations
+
+
+********CG Solve at timestep      148
+Itn, 2Norm, Rnorm:      0  0.287751E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.305137E+04  0.106042E-04
+Itn, 2Norm, Rnorm:    100  0.972634E-01  0.338013E-09
+ JCG converged in          129  iterations
+
+
+********CG Solve at timestep      149
+Itn, 2Norm, Rnorm:      0  0.288017E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.289533E+04  0.100526E-04
+Itn, 2Norm, Rnorm:    100  0.973579E-01  0.338029E-09
+ JCG converged in          129  iterations
+
+
+********CG Solve at timestep      150
+Itn, 2Norm, Rnorm:      0  0.288395E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.300540E+04  0.104211E-04
+Itn, 2Norm, Rnorm:    100  0.103726E+00  0.359666E-09
+ JCG converged in          129  iterations
+
+
+********CG Solve at timestep      151
+Itn, 2Norm, Rnorm:      0  0.288431E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.290913E+04  0.100860E-04
+Itn, 2Norm, Rnorm:    100  0.101781E+00  0.352876E-09
+ JCG converged in          128  iterations
+
+
+********CG Solve at timestep      152
+Itn, 2Norm, Rnorm:      0  0.288709E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.296884E+04  0.102832E-04
+Itn, 2Norm, Rnorm:    100  0.109715E+00  0.380019E-09
+ JCG converged in          129  iterations
+
+
+********CG Solve at timestep      153
+Itn, 2Norm, Rnorm:      0  0.288873E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.291768E+04  0.101002E-04
+Itn, 2Norm, Rnorm:    100  0.110018E+00  0.380852E-09
+ JCG converged in          129  iterations
+
+
+********CG Solve at timestep      154
+Itn, 2Norm, Rnorm:      0  0.289502E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.296629E+04  0.102462E-04
+Itn, 2Norm, Rnorm:    100  0.112065E+00  0.387095E-09
+ JCG converged in          129  iterations
+
+
+********CG Solve at timestep      155
+Itn, 2Norm, Rnorm:      0  0.290181E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.292329E+04  0.100740E-04
+Itn, 2Norm, Rnorm:    100  0.116860E+00  0.402714E-09
+ JCG converged in          129  iterations
+
+
+********CG Solve at timestep      156
+Itn, 2Norm, Rnorm:      0  0.291456E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.299565E+04  0.102782E-04
+Itn, 2Norm, Rnorm:    100  0.117133E+00  0.401890E-09
+ JCG converged in          129  iterations
+
+
+********CG Solve at timestep      157
+Itn, 2Norm, Rnorm:      0  0.293053E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.292963E+04  0.999694E-05
+Itn, 2Norm, Rnorm:    100  0.120907E+00  0.412579E-09
+ JCG converged in          129  iterations
+
+
+********CG Solve at timestep      158
+Itn, 2Norm, Rnorm:      0  0.295510E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.301243E+04  0.101940E-04
+Itn, 2Norm, Rnorm:    100  0.120538E+00  0.407899E-09
+ JCG converged in          129  iterations
+
+
+********CG Solve at timestep      159
+Itn, 2Norm, Rnorm:      0  0.298656E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.294470E+04  0.985984E-05
+Itn, 2Norm, Rnorm:    100  0.123108E+00  0.412207E-09
+ JCG converged in          129  iterations
+
+
+********CG Solve at timestep      160
+Itn, 2Norm, Rnorm:      0  0.303109E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.306358E+04  0.101072E-04
+Itn, 2Norm, Rnorm:    100  0.127652E+00  0.421142E-09
+ JCG converged in          129  iterations
+
+
+********CG Solve at timestep      161
+Itn, 2Norm, Rnorm:      0  0.308832E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.296897E+04  0.961355E-05
+Itn, 2Norm, Rnorm:    100  0.128325E+00  0.415519E-09
+ JCG converged in          129  iterations
+
+
+********CG Solve at timestep      162
+Itn, 2Norm, Rnorm:      0  0.316449E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.314515E+04  0.993888E-05
+Itn, 2Norm, Rnorm:    100  0.133452E+00  0.421717E-09
+ JCG converged in          129  iterations
+
+
+********CG Solve at timestep      163
+Itn, 2Norm, Rnorm:      0  0.326414E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.303361E+04  0.929374E-05
+Itn, 2Norm, Rnorm:    100  0.133839E+00  0.410030E-09
+ JCG converged in          128  iterations
+
+
+********CG Solve at timestep      164
+Itn, 2Norm, Rnorm:      0  0.339404E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.331116E+04  0.975581E-05
+Itn, 2Norm, Rnorm:    100  0.140806E+00  0.414862E-09
+ JCG converged in          129  iterations
+
+
+********CG Solve at timestep      165
+Itn, 2Norm, Rnorm:      0  0.356414E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.319383E+04  0.896102E-05
+Itn, 2Norm, Rnorm:    100  0.142035E+00  0.398512E-09
+ JCG converged in          128  iterations
+
+
+********CG Solve at timestep      166
+Itn, 2Norm, Rnorm:      0  0.376841E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.355912E+04  0.944463E-05
+Itn, 2Norm, Rnorm:    100  0.149197E+00  0.395914E-09
+ JCG converged in          128  iterations
+
+
+********CG Solve at timestep      167
+Itn, 2Norm, Rnorm:      0  0.397549E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.348521E+04  0.876674E-05
+Itn, 2Norm, Rnorm:    100  0.151642E+00  0.381442E-09
+ JCG converged in          128  iterations
+
+
+********CG Solve at timestep      168
+Itn, 2Norm, Rnorm:      0  0.414678E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.399540E+04  0.963496E-05
+Itn, 2Norm, Rnorm:    100  0.158699E+00  0.382704E-09
+ JCG converged in          128  iterations
+
+
+********CG Solve at timestep      169
+Itn, 2Norm, Rnorm:      0  0.431129E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.378723E+04  0.878444E-05
+Itn, 2Norm, Rnorm:    100  0.166461E+00  0.386106E-09
+ JCG converged in          128  iterations
+
+
+********CG Solve at timestep      170
+Itn, 2Norm, Rnorm:      0  0.445522E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.424404E+04  0.952599E-05
+Itn, 2Norm, Rnorm:    100  0.168520E+00  0.378254E-09
+ JCG converged in          128  iterations
+
+
+********CG Solve at timestep      171
+Itn, 2Norm, Rnorm:      0  0.458930E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.389278E+04  0.848228E-05
+Itn, 2Norm, Rnorm:    100  0.175246E+00  0.381857E-09
+ JCG converged in          128  iterations
+
+
+********CG Solve at timestep      172
+Itn, 2Norm, Rnorm:      0  0.470177E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.431310E+04  0.917336E-05
+Itn, 2Norm, Rnorm:    100  0.175125E+00  0.372467E-09
+ JCG converged in          128  iterations
+
+
+********CG Solve at timestep      173
+Itn, 2Norm, Rnorm:      0  0.480216E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.362255E+04  0.754359E-05
+Itn, 2Norm, Rnorm:    100  0.180291E+00  0.375437E-09
+ JCG converged in          128  iterations
+
+
+********CG Solve at timestep      174
+Itn, 2Norm, Rnorm:      0  0.488419E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.421210E+04  0.862394E-05
+Itn, 2Norm, Rnorm:    100  0.184116E+00  0.376964E-09
+ JCG converged in          128  iterations
+
+
+********CG Solve at timestep      175
+Itn, 2Norm, Rnorm:      0  0.495162E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.374235E+04  0.755784E-05
+Itn, 2Norm, Rnorm:    100  0.182436E+00  0.368437E-09
+ JCG converged in          128  iterations
+
+
+********CG Solve at timestep      176
+Itn, 2Norm, Rnorm:      0  0.500824E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.394211E+04  0.787126E-05
+Itn, 2Norm, Rnorm:    100  0.192233E+00  0.383834E-09
+ JCG converged in          128  iterations
+
+
+********CG Solve at timestep      177
+Itn, 2Norm, Rnorm:      0  0.505583E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.370816E+04  0.733441E-05
+Itn, 2Norm, Rnorm:    100  0.183065E+00  0.362087E-09
+ JCG converged in          128  iterations
+
+
+********CG Solve at timestep      178
+Itn, 2Norm, Rnorm:      0  0.509774E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.393114E+04  0.771154E-05
+Itn, 2Norm, Rnorm:    100  0.196083E+00  0.384648E-09
+ JCG converged in          128  iterations
+
+
+********CG Solve at timestep      179
+Itn, 2Norm, Rnorm:      0  0.513183E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.390502E+04  0.760941E-05
+Itn, 2Norm, Rnorm:    100  0.182175E+00  0.354990E-09
+ JCG converged in          128  iterations
+
+
+********CG Solve at timestep      180
+Itn, 2Norm, Rnorm:      0  0.516312E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.395299E+04  0.765621E-05
+Itn, 2Norm, Rnorm:    100  0.197339E+00  0.382209E-09
+ JCG converged in          128  iterations
+
+
+********CG Solve at timestep      181
+Itn, 2Norm, Rnorm:      0  0.518893E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.379944E+04  0.732221E-05
+Itn, 2Norm, Rnorm:    100  0.179720E+00  0.346353E-09
+ JCG converged in          128  iterations
+
+
+********CG Solve at timestep      182
+Itn, 2Norm, Rnorm:      0  0.521369E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.386470E+04  0.741260E-05
+Itn, 2Norm, Rnorm:    100  0.198377E+00  0.380493E-09
+ JCG converged in          128  iterations
+
+
+********CG Solve at timestep      183
+Itn, 2Norm, Rnorm:      0  0.523542E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.385204E+04  0.735764E-05
+Itn, 2Norm, Rnorm:    100  0.179424E+00  0.342712E-09
+ JCG converged in          127  iterations
+
+
+********CG Solve at timestep      184
+Itn, 2Norm, Rnorm:      0  0.525693E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.393324E+04  0.748200E-05
+Itn, 2Norm, Rnorm:    100  0.202422E+00  0.385058E-09
+ JCG converged in          128  iterations
+
+
+********CG Solve at timestep      185
+Itn, 2Norm, Rnorm:      0  0.527612E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.380841E+04  0.721821E-05
+Itn, 2Norm, Rnorm:    100  0.184303E+00  0.349315E-09
+ JCG converged in          128  iterations
+
+
+********CG Solve at timestep      186
+Itn, 2Norm, Rnorm:      0  0.530050E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.398161E+04  0.751176E-05
+Itn, 2Norm, Rnorm:    100  0.208328E+00  0.393034E-09
+ JCG converged in          128  iterations
+
+
+********CG Solve at timestep      187
+Itn, 2Norm, Rnorm:      0  0.532058E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.382641E+04  0.719172E-05
+Itn, 2Norm, Rnorm:    100  0.188596E+00  0.354464E-09
+ JCG converged in          128  iterations
+
+
+********CG Solve at timestep      188
+Itn, 2Norm, Rnorm:      0  0.534051E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.373895E+04  0.700111E-05
+Itn, 2Norm, Rnorm:    100  0.212607E+00  0.398103E-09
+ JCG converged in          128  iterations
+
+
+********CG Solve at timestep      189
+Itn, 2Norm, Rnorm:      0  0.536005E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.384428E+04  0.717209E-05
+Itn, 2Norm, Rnorm:    100  0.192654E+00  0.359426E-09
+ JCG converged in          128  iterations
+
+
+********CG Solve at timestep      190
+Itn, 2Norm, Rnorm:      0  0.538673E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.371082E+04  0.688882E-05
+Itn, 2Norm, Rnorm:    100  0.217061E+00  0.402956E-09
+ JCG converged in          128  iterations
+
+
+********CG Solve at timestep      191
+Itn, 2Norm, Rnorm:      0  0.541035E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.385620E+04  0.712745E-05
+Itn, 2Norm, Rnorm:    100  0.196745E+00  0.363644E-09
+ JCG converged in          128  iterations
+
+
+********CG Solve at timestep      192
+Itn, 2Norm, Rnorm:      0  0.543674E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.375103E+04  0.689941E-05
+Itn, 2Norm, Rnorm:    100  0.220934E+00  0.406372E-09
+ JCG converged in          128  iterations
+
+
+********CG Solve at timestep      193
+Itn, 2Norm, Rnorm:      0  0.546202E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.387275E+04  0.709032E-05
+Itn, 2Norm, Rnorm:    100  0.198939E+00  0.364222E-09
+ JCG converged in          128  iterations
+
+
+********CG Solve at timestep      194
+Itn, 2Norm, Rnorm:      0  0.549094E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.383978E+04  0.699295E-05
+Itn, 2Norm, Rnorm:    100  0.224221E+00  0.408348E-09
+ JCG converged in          128  iterations
+
+
+********CG Solve at timestep      195
+Itn, 2Norm, Rnorm:      0  0.551841E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.389854E+04  0.706461E-05
+Itn, 2Norm, Rnorm:    100  0.200821E+00  0.363912E-09
+ JCG converged in          128  iterations
+
+
+********CG Solve at timestep      196
+Itn, 2Norm, Rnorm:      0  0.554929E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.382037E+04  0.688443E-05
+Itn, 2Norm, Rnorm:    100  0.227411E+00  0.409802E-09
+ JCG converged in          128  iterations
+
+
+********CG Solve at timestep      197
+Itn, 2Norm, Rnorm:      0  0.557892E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.393358E+04  0.705079E-05
+Itn, 2Norm, Rnorm:    100  0.202323E+00  0.362656E-09
+ JCG converged in          128  iterations
+
+
+********CG Solve at timestep      198
+Itn, 2Norm, Rnorm:      0  0.559164E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.382810E+04  0.684612E-05
+Itn, 2Norm, Rnorm:    100  0.231605E+00  0.414199E-09
+ JCG converged in          128  iterations
+
+
+********CG Solve at timestep      199
+Itn, 2Norm, Rnorm:      0  0.556098E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.402233E+04  0.723314E-05
+Itn, 2Norm, Rnorm:    100  0.199518E+00  0.358782E-09
+ JCG converged in          128  iterations
+
+
+********CG Solve at timestep      200
+Itn, 2Norm, Rnorm:      0  0.553254E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.369414E+04  0.667710E-05
+Itn, 2Norm, Rnorm:    100  0.233781E+00  0.422556E-09
+ JCG converged in          128  iterations
+
+
+********CG Solve at timestep      201
+Itn, 2Norm, Rnorm:      0  0.548094E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.408662E+04  0.745607E-05
+Itn, 2Norm, Rnorm:    100  0.198188E+00  0.361594E-09
+ JCG converged in          127  iterations
+
+
+********CG Solve at timestep      202
+Itn, 2Norm, Rnorm:      0  0.542553E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.364403E+04  0.671644E-05
+Itn, 2Norm, Rnorm:    100  0.236209E+00  0.435366E-09
+ JCG converged in          128  iterations
+
+
+********CG Solve at timestep      203
+Itn, 2Norm, Rnorm:      0  0.535872E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.411363E+04  0.767652E-05
+Itn, 2Norm, Rnorm:    100  0.195065E+00  0.364015E-09
+ JCG converged in          124  iterations
+
+
+********CG Solve at timestep      204
+Itn, 2Norm, Rnorm:      0  0.528762E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.365276E+04  0.690814E-05
+Itn, 2Norm, Rnorm:    100  0.233859E+00  0.442277E-09
+ JCG converged in          128  iterations
+
+
+********CG Solve at timestep      205
+Itn, 2Norm, Rnorm:      0  0.520263E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.415688E+04  0.798997E-05
+Itn, 2Norm, Rnorm:    100  0.189386E+00  0.364020E-09
+ JCG converged in          128  iterations
+
+
+********CG Solve at timestep      206
+Itn, 2Norm, Rnorm:      0  0.508456E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.383916E+04  0.755062E-05
+Itn, 2Norm, Rnorm:    100  0.221764E+00  0.436152E-09
+ JCG converged in          128  iterations
+
+
+********CG Solve at timestep      207
+Itn, 2Norm, Rnorm:      0  0.495958E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.412263E+04  0.831246E-05
+Itn, 2Norm, Rnorm:    100  0.174695E+00  0.352237E-09
+ JCG converged in          128  iterations
+
+
+********CG Solve at timestep      208
+Itn, 2Norm, Rnorm:      0  0.481280E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.378187E+04  0.785795E-05
+Itn, 2Norm, Rnorm:    100  0.206520E+00  0.429106E-09
+ JCG converged in          128  iterations
+
+
+********CG Solve at timestep      209
+Itn, 2Norm, Rnorm:      0  0.466180E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.403512E+04  0.865572E-05
+Itn, 2Norm, Rnorm:    100  0.144346E+00  0.309637E-09
+ JCG converged in          125  iterations
+
+
+********CG Solve at timestep      210
+Itn, 2Norm, Rnorm:      0  0.450078E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.358518E+04  0.796569E-05
+Itn, 2Norm, Rnorm:    100  0.180773E+00  0.401647E-09
+ JCG converged in          128  iterations
+
+
+********CG Solve at timestep      211
+Itn, 2Norm, Rnorm:      0  0.432837E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.373001E+04  0.861760E-05
+Itn, 2Norm, Rnorm:    100  0.145915E+00  0.337113E-09
+ JCG converged in          127  iterations
+
+
+********CG Solve at timestep      212
+Itn, 2Norm, Rnorm:      0  0.415229E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.325944E+04  0.784972E-05
+Itn, 2Norm, Rnorm:    100  0.175631E+00  0.422974E-09
+ JCG converged in          128  iterations
+
+
+********CG Solve at timestep      213
+Itn, 2Norm, Rnorm:      0  0.398796E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.372757E+04  0.934707E-05
+Itn, 2Norm, Rnorm:    100  0.155619E+00  0.390221E-09
+ JCG converged in          127  iterations
+
+
+********CG Solve at timestep      214
+Itn, 2Norm, Rnorm:      0  0.384271E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.332210E+04  0.864521E-05
+Itn, 2Norm, Rnorm:    100  0.176350E+00  0.458922E-09
+ JCG converged in          129  iterations
+
+
+********CG Solve at timestep      215
+Itn, 2Norm, Rnorm:      0  0.372530E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.393012E+04  0.105498E-04
+Itn, 2Norm, Rnorm:    100  0.160837E+00  0.431743E-09
+ JCG converged in          128  iterations
+
+
+********CG Solve at timestep      216
+Itn, 2Norm, Rnorm:      0  0.361901E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.339158E+04  0.937157E-05
+Itn, 2Norm, Rnorm:    100  0.185670E+00  0.513040E-09
+ JCG converged in          129  iterations
+
+
+********CG Solve at timestep      217
+Itn, 2Norm, Rnorm:      0  0.353459E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.390300E+04  0.110423E-04
+Itn, 2Norm, Rnorm:    100  0.168002E+00  0.475308E-09
+ JCG converged in          129  iterations
+
+
+********CG Solve at timestep      218
+Itn, 2Norm, Rnorm:      0  0.347085E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.342121E+04  0.985697E-05
+Itn, 2Norm, Rnorm:    100  0.190564E+00  0.549041E-09
+ JCG converged in          129  iterations
+
+
+********CG Solve at timestep      219
+Itn, 2Norm, Rnorm:      0  0.342303E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.387145E+04  0.113100E-04
+Itn, 2Norm, Rnorm:    100  0.171047E+00  0.499694E-09
+ JCG converged in          128  iterations
+
+
+********CG Solve at timestep      220
+Itn, 2Norm, Rnorm:      0  0.339652E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.343371E+04  0.101095E-04
+Itn, 2Norm, Rnorm:    100  0.193445E+00  0.569539E-09
+ JCG converged in          129  iterations
+
+
+********CG Solve at timestep      221
+Itn, 2Norm, Rnorm:      0  0.338200E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.383282E+04  0.113330E-04
+Itn, 2Norm, Rnorm:    100  0.183867E+00  0.543664E-09
+ JCG converged in          129  iterations
+
+
+********CG Solve at timestep      222
+Itn, 2Norm, Rnorm:      0  0.338757E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.350819E+04  0.103561E-04
+Itn, 2Norm, Rnorm:    100  0.197550E+00  0.583161E-09
+ JCG converged in          129  iterations
+
+
+********CG Solve at timestep      223
+Itn, 2Norm, Rnorm:      0  0.340641E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.390488E+04  0.114633E-04
+Itn, 2Norm, Rnorm:    100  0.198571E+00  0.582933E-09
+ JCG converged in          129  iterations
+
+
+********CG Solve at timestep      224
+Itn, 2Norm, Rnorm:      0  0.344620E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.361830E+04  0.104994E-04
+Itn, 2Norm, Rnorm:    100  0.200428E+00  0.581592E-09
+ JCG converged in          129  iterations
+
+
+********CG Solve at timestep      225
+Itn, 2Norm, Rnorm:      0  0.349884E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.400741E+04  0.114535E-04
+Itn, 2Norm, Rnorm:    100  0.215402E+00  0.615637E-09
+ JCG converged in          129  iterations
+
+
+********CG Solve at timestep      226
+Itn, 2Norm, Rnorm:      0  0.356147E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.371138E+04  0.104209E-04
+Itn, 2Norm, Rnorm:    100  0.205079E+00  0.575828E-09
+ JCG converged in          129  iterations
+
+
+********CG Solve at timestep      227
+Itn, 2Norm, Rnorm:      0  0.364217E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.411697E+04  0.113036E-04
+Itn, 2Norm, Rnorm:    100  0.224807E+00  0.617235E-09
+ JCG converged in          129  iterations
+
+
+********CG Solve at timestep      228
+Itn, 2Norm, Rnorm:      0  0.373740E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.378694E+04  0.101325E-04
+Itn, 2Norm, Rnorm:    100  0.211330E+00  0.565447E-09
+ JCG converged in          129  iterations
+
+
+********CG Solve at timestep      229
+Itn, 2Norm, Rnorm:      0  0.384234E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.428160E+04  0.111432E-04
+Itn, 2Norm, Rnorm:    100  0.235355E+00  0.612531E-09
+ JCG converged in          129  iterations
+
+
+********CG Solve at timestep      230
+Itn, 2Norm, Rnorm:      0  0.395353E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.389999E+04  0.986456E-05
+Itn, 2Norm, Rnorm:    100  0.221679E+00  0.560711E-09
+ JCG converged in          129  iterations
+
+
+********CG Solve at timestep      231
+Itn, 2Norm, Rnorm:      0  0.407440E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.439842E+04  0.107952E-04
+Itn, 2Norm, Rnorm:    100  0.250769E+00  0.615475E-09
+ JCG converged in          129  iterations
+
+
+********CG Solve at timestep      232
+Itn, 2Norm, Rnorm:      0  0.420700E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.402265E+04  0.956181E-05
+Itn, 2Norm, Rnorm:    100  0.234433E+00  0.557246E-09
+ JCG converged in          129  iterations
+
+
+********CG Solve at timestep      233
+Itn, 2Norm, Rnorm:      0  0.434563E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.450117E+04  0.103579E-04
+Itn, 2Norm, Rnorm:    100  0.255471E+00  0.587880E-09
+ JCG converged in          129  iterations
+
+
+********CG Solve at timestep      234
+Itn, 2Norm, Rnorm:      0  0.448855E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.404097E+04  0.900283E-05
+Itn, 2Norm, Rnorm:    100  0.237235E+00  0.528532E-09
+ JCG converged in          129  iterations
+
+
+********CG Solve at timestep      235
+Itn, 2Norm, Rnorm:      0  0.462038E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.450396E+04  0.974804E-05
+Itn, 2Norm, Rnorm:    100  0.263889E+00  0.571142E-09
+ JCG converged in          129  iterations
+
+
+********CG Solve at timestep      236
+Itn, 2Norm, Rnorm:      0  0.472983E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.408087E+04  0.862795E-05
+Itn, 2Norm, Rnorm:    100  0.240224E+00  0.507891E-09
+ JCG converged in          129  iterations
+
+
+********CG Solve at timestep      237
+Itn, 2Norm, Rnorm:      0  0.483386E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.453956E+04  0.939116E-05
+Itn, 2Norm, Rnorm:    100  0.273546E+00  0.565895E-09
+ JCG converged in          129  iterations
+
+
+********CG Solve at timestep      238
+Itn, 2Norm, Rnorm:      0  0.491300E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.418146E+04  0.851102E-05
+Itn, 2Norm, Rnorm:    100  0.247982E+00  0.504746E-09
+ JCG converged in          129  iterations
+
+
+********CG Solve at timestep      239
+Itn, 2Norm, Rnorm:      0  0.500025E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.451537E+04  0.903031E-05
+Itn, 2Norm, Rnorm:    100  0.281230E+00  0.562432E-09
+ JCG converged in          129  iterations
+
+
+********CG Solve at timestep      240
+Itn, 2Norm, Rnorm:      0  0.508385E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.417386E+04  0.821003E-05
+Itn, 2Norm, Rnorm:    100  0.253730E+00  0.499090E-09
+ JCG converged in          129  iterations
+
+
+********CG Solve at timestep      241
+Itn, 2Norm, Rnorm:      0  0.517432E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.449674E+04  0.869048E-05
+Itn, 2Norm, Rnorm:    100  0.278721E+00  0.538662E-09
+ JCG converged in          129  iterations
+
+
+********CG Solve at timestep      242
+Itn, 2Norm, Rnorm:      0  0.526761E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.416079E+04  0.789881E-05
+Itn, 2Norm, Rnorm:    100  0.254779E+00  0.483672E-09
+ JCG converged in          129  iterations
+
+
+********CG Solve at timestep      243
+Itn, 2Norm, Rnorm:      0  0.537034E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.451239E+04  0.840243E-05
+Itn, 2Norm, Rnorm:    100  0.279397E+00  0.520259E-09
+ JCG converged in          129  iterations
+
+
+********CG Solve at timestep      244
+Itn, 2Norm, Rnorm:      0  0.548488E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.420773E+04  0.767150E-05
+Itn, 2Norm, Rnorm:    100  0.259601E+00  0.473302E-09
+ JCG converged in          129  iterations
+
+
+********CG Solve at timestep      245
+Itn, 2Norm, Rnorm:      0  0.561317E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.456890E+04  0.813961E-05
+Itn, 2Norm, Rnorm:    100  0.287578E+00  0.512327E-09
+ JCG converged in          129  iterations
+
+
+********CG Solve at timestep      246
+Itn, 2Norm, Rnorm:      0  0.575784E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.431789E+04  0.749915E-05
+Itn, 2Norm, Rnorm:    100  0.268034E+00  0.465512E-09
+ JCG converged in          129  iterations
+
+
+********CG Solve at timestep      247
+Itn, 2Norm, Rnorm:      0  0.591619E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.469516E+04  0.793613E-05
+Itn, 2Norm, Rnorm:    100  0.296286E+00  0.500805E-09
+ JCG converged in          128  iterations
+
+
+********CG Solve at timestep      248
+Itn, 2Norm, Rnorm:      0  0.608512E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.440213E+04  0.723425E-05
+Itn, 2Norm, Rnorm:    100  0.279359E+00  0.459085E-09
+ JCG converged in          128  iterations
+
+
+********CG Solve at timestep      249
+Itn, 2Norm, Rnorm:      0  0.625440E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.488960E+04  0.781786E-05
+Itn, 2Norm, Rnorm:    100  0.305330E+00  0.488184E-09
+ JCG converged in          128  iterations
+
+
+********CG Solve at timestep      250
+Itn, 2Norm, Rnorm:      0  0.643384E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.451610E+04  0.701930E-05
+Itn, 2Norm, Rnorm:    100  0.297257E+00  0.462022E-09
+ JCG converged in          129  iterations
+
+
+********CG Solve at timestep      251
+Itn, 2Norm, Rnorm:      0  0.661284E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.510635E+04  0.772187E-05
+Itn, 2Norm, Rnorm:    100  0.310470E+00  0.469496E-09
+ JCG converged in          128  iterations
+
+
+********CG Solve at timestep      252
+Itn, 2Norm, Rnorm:      0  0.679159E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.446080E+04  0.656813E-05
+Itn, 2Norm, Rnorm:    100  0.314924E+00  0.463697E-09
+ JCG converged in          129  iterations
+
+
+********CG Solve at timestep      253
+Itn, 2Norm, Rnorm:      0  0.696287E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.526118E+04  0.755605E-05
+Itn, 2Norm, Rnorm:    100  0.320890E+00  0.460859E-09
+ JCG converged in          128  iterations
+
+
+********CG Solve at timestep      254
+Itn, 2Norm, Rnorm:      0  0.712704E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.489332E+04  0.686586E-05
+Itn, 2Norm, Rnorm:    100  0.324790E+00  0.455716E-09
+ JCG converged in          128  iterations
+
+
+********CG Solve at timestep      255
+Itn, 2Norm, Rnorm:      0  0.727084E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.541463E+04  0.744705E-05
+Itn, 2Norm, Rnorm:    100  0.326352E+00  0.448851E-09
+ JCG converged in          128  iterations
+
+
+********CG Solve at timestep      256
+Itn, 2Norm, Rnorm:      0  0.740819E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.499199E+04  0.673847E-05
+Itn, 2Norm, Rnorm:    100  0.330618E+00  0.446287E-09
+ JCG converged in          129  iterations
+
+
+********CG Solve at timestep      257
+Itn, 2Norm, Rnorm:      0  0.753768E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.541402E+04  0.718260E-05
+Itn, 2Norm, Rnorm:    100  0.348710E+00  0.462622E-09
+ JCG converged in          128  iterations
+
+
+********CG Solve at timestep      258
+Itn, 2Norm, Rnorm:      0  0.766288E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.505526E+04  0.659707E-05
+Itn, 2Norm, Rnorm:    100  0.333119E+00  0.434718E-09
+ JCG converged in          129  iterations
+
+
+********CG Solve at timestep      259
+Itn, 2Norm, Rnorm:      0  0.777372E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.536673E+04  0.690368E-05
+Itn, 2Norm, Rnorm:    100  0.356851E+00  0.459048E-09
+ JCG converged in          127  iterations
+
+
+********CG Solve at timestep      260
+Itn, 2Norm, Rnorm:      0  0.788097E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.503664E+04  0.639089E-05
+Itn, 2Norm, Rnorm:    100  0.339426E+00  0.430690E-09
+ JCG converged in          129  iterations
+
+
+********CG Solve at timestep      261
+Itn, 2Norm, Rnorm:      0  0.798043E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.534554E+04  0.669832E-05
+Itn, 2Norm, Rnorm:    100  0.363600E+00  0.455615E-09
+ JCG converged in          128  iterations
+
+
+********CG Solve at timestep      262
+Itn, 2Norm, Rnorm:      0  0.808017E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.505691E+04  0.625842E-05
+Itn, 2Norm, Rnorm:    100  0.339422E+00  0.420068E-09
+ JCG converged in          129  iterations
+
+
+********CG Solve at timestep      263
+Itn, 2Norm, Rnorm:      0  0.817945E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.532411E+04  0.650913E-05
+Itn, 2Norm, Rnorm:    100  0.371609E+00  0.454320E-09
+ JCG converged in          127  iterations
+
+
+********CG Solve at timestep      264
+Itn, 2Norm, Rnorm:      0  0.827544E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.507815E+04  0.613641E-05
+Itn, 2Norm, Rnorm:    100  0.345107E+00  0.417025E-09
+ JCG converged in          129  iterations
+
+
+********CG Solve at timestep      265
+Itn, 2Norm, Rnorm:      0  0.836439E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.532755E+04  0.636933E-05
+Itn, 2Norm, Rnorm:    100  0.376575E+00  0.450212E-09
+ JCG converged in          128  iterations
+
+
+********CG Solve at timestep      266
+Itn, 2Norm, Rnorm:      0  0.845306E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.506094E+04  0.598711E-05
+Itn, 2Norm, Rnorm:    100  0.345699E+00  0.408963E-09
+ JCG converged in          128  iterations
+
+
+********CG Solve at timestep      267
+Itn, 2Norm, Rnorm:      0  0.853584E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.529595E+04  0.620437E-05
+Itn, 2Norm, Rnorm:    100  0.377046E+00  0.441721E-09
+ JCG converged in          128  iterations
+
+
+********CG Solve at timestep      268
+Itn, 2Norm, Rnorm:      0  0.861820E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.494738E+04  0.574062E-05
+Itn, 2Norm, Rnorm:    100  0.345514E+00  0.400912E-09
+ JCG converged in          128  iterations
+
+
+********CG Solve at timestep      269
+Itn, 2Norm, Rnorm:      0  0.869957E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.531868E+04  0.611373E-05
+Itn, 2Norm, Rnorm:    100  0.383124E+00  0.440394E-09
+ JCG converged in          127  iterations
+
+
+********CG Solve at timestep      270
+Itn, 2Norm, Rnorm:      0  0.877279E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.486699E+04  0.554782E-05
+Itn, 2Norm, Rnorm:    100  0.342442E+00  0.390346E-09
+ JCG converged in          128  iterations
+
+
+********CG Solve at timestep      271
+Itn, 2Norm, Rnorm:      0  0.884213E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.537253E+04  0.607606E-05
+Itn, 2Norm, Rnorm:    100  0.386286E+00  0.436870E-09
+ JCG converged in          127  iterations
+
+
+********CG Solve at timestep      272
+Itn, 2Norm, Rnorm:      0  0.892018E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.489358E+04  0.548597E-05
+Itn, 2Norm, Rnorm:    100  0.338538E+00  0.379520E-09
+ JCG converged in          128  iterations
+
+
+********CG Solve at timestep      273
+Itn, 2Norm, Rnorm:      0  0.900133E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.534384E+04  0.593673E-05
+Itn, 2Norm, Rnorm:    100  0.391274E+00  0.434685E-09
+ JCG converged in          127  iterations
+
+
+********CG Solve at timestep      274
+Itn, 2Norm, Rnorm:      0  0.906812E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.512614E+04  0.565293E-05
+Itn, 2Norm, Rnorm:    100  0.338044E+00  0.372783E-09
+ JCG converged in          128  iterations
+
+
+********CG Solve at timestep      275
+Itn, 2Norm, Rnorm:      0  0.909248E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.553456E+04  0.608697E-05
+Itn, 2Norm, Rnorm:    100  0.386738E+00  0.425338E-09
+ JCG converged in          128  iterations
+
+
+********CG Solve at timestep      276
+Itn, 2Norm, Rnorm:      0  0.909881E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.509830E+04  0.560326E-05
+Itn, 2Norm, Rnorm:    100  0.337487E+00  0.370914E-09
+ JCG converged in          128  iterations
+
+
+********CG Solve at timestep      277
+Itn, 2Norm, Rnorm:      0  0.908819E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.539894E+04  0.594061E-05
+Itn, 2Norm, Rnorm:    100  0.384700E+00  0.423297E-09
+ JCG converged in          127  iterations
+
+
+********CG Solve at timestep      278
+Itn, 2Norm, Rnorm:      0  0.906727E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.507366E+04  0.559557E-05
+Itn, 2Norm, Rnorm:    100  0.335307E+00  0.369799E-09
+ JCG converged in          128  iterations
+
+
+********CG Solve at timestep      279
+Itn, 2Norm, Rnorm:      0  0.904029E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.531755E+04  0.588206E-05
+Itn, 2Norm, Rnorm:    100  0.380893E+00  0.421328E-09
+ JCG converged in          127  iterations
+
+
+********CG Solve at timestep      280
+Itn, 2Norm, Rnorm:      0  0.900726E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.499089E+04  0.554097E-05
+Itn, 2Norm, Rnorm:    100  0.327231E+00  0.363297E-09
+ JCG converged in          128  iterations
+
+
+********CG Solve at timestep      281
+Itn, 2Norm, Rnorm:      0  0.897138E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.521250E+04  0.581014E-05
+Itn, 2Norm, Rnorm:    100  0.376864E+00  0.420073E-09
+ JCG converged in          128  iterations
+
+
+********CG Solve at timestep      282
+Itn, 2Norm, Rnorm:      0  0.893170E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.494038E+04  0.553129E-05
+Itn, 2Norm, Rnorm:    100  0.309074E+00  0.346041E-09
+ JCG converged in          128  iterations
+
+
+********CG Solve at timestep      283
+Itn, 2Norm, Rnorm:      0  0.889305E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.512083E+04  0.575824E-05
+Itn, 2Norm, Rnorm:    100  0.370737E+00  0.416884E-09
+ JCG converged in          127  iterations
+
+
+********CG Solve at timestep      284
+Itn, 2Norm, Rnorm:      0  0.885737E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.493422E+04  0.557075E-05
+Itn, 2Norm, Rnorm:    100  0.313121E+00  0.353514E-09
+ JCG converged in          128  iterations
+
+
+********CG Solve at timestep      285
+Itn, 2Norm, Rnorm:      0  0.882460E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.510108E+04  0.578053E-05
+Itn, 2Norm, Rnorm:    100  0.376026E+00  0.426111E-09
+ JCG converged in          128  iterations
+
+
+********CG Solve at timestep      286
+Itn, 2Norm, Rnorm:      0  0.879339E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.495951E+04  0.564005E-05
+Itn, 2Norm, Rnorm:    100  0.309760E+00  0.352264E-09
+ JCG converged in          127  iterations
+
+
+********CG Solve at timestep      287
+Itn, 2Norm, Rnorm:      0  0.876778E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.509487E+04  0.581090E-05
+Itn, 2Norm, Rnorm:    100  0.377518E+00  0.430574E-09
+ JCG converged in          127  iterations
+
+
+********CG Solve at timestep      288
+Itn, 2Norm, Rnorm:      0  0.875009E+09  0.100000E+01
+Itn, 2Norm, Rnorm:     50  0.498630E+04  0.569857E-05
+Itn, 2Norm, Rnorm:    100  0.310581E+00  0.354946E-09
+ JCG converged in          128  iterations

@@ -1,0 +1,16 @@
+ Scribe            0           2           8           2
+ Scribe, basic info:   300.00000000000000                3           2        1656         144           0         144           1           0           0           0           0           0           0           0           0           0           0           0           0           1           0           0           1           0           1           0           0           0           0           0           1           1           0           0           0           0           0           0           0           0           0           0           0           0           0           0           4           1           1           5           0           0           1           1           0           0           0           0           0           0           0           0           0           0
+ out_name and i23d:
+           1 dryFlagNode           1
+           2 elevation           1
+           3 windSpeedX           1
+           4 windSpeedY           1
+           5 dryFlagElement           4
+           6 dryFlagSide           7
+           7 verticalVelocity           2
+           8 salinity           2
+           9 zCoordinates           2
+          10 horizontalVelX           2
+          11 horizontalVelY           2
+ max dim:         856        1397        2251           2
+ finished scribe_init:           2
