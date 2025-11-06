@@ -16,7 +16,7 @@ ipre = 0 !Pre-processor flag (1: on; 0: off)
   ibc = 0 !Baroclinic option
   ibtp = 1 
 
-  rnday = 4 !total run time in days
+  rnday = 5 !total run time in days
   dt = 300. !Time step in sec
 
 ! Grid for WWM (USE_WWM)

@@ -1,4 +1,4 @@
-Run begins at 20251106, 123312.646
+Run begins at 20251104, 141645.939
  You are using baroclinic model
  # of tracers in each module:           1           1           0           0           0           0           0           0           0           0           0           0
  Total # of tracers=           2
@@ -45,14 +45,14 @@ Done initializing time history...
  done computing initial vgrid...
  done computing initial nodal vel...
  done computing initial density...
- time stepping begins...           1        1440
+ time stepping begins...           1        1152
  done adjusting wind stress ...
  done flow b.c.
  done hvis... 
  done backtracking
  done 1st preparation
  done 2nd preparation
- done solver; etatot=   2.2907427171291691E-003 ; average |eta|=   1.3832987422277592E-006
+ done solver; etatot=   2.2784150407941323E-002 ; average |eta|=   1.3758544932331717E-005
  done solving momentum eq...
  done solving w
  done tracer transport...
@@ -66,7 +66,7 @@ TIME STEP=            1;  TIME=           300.000000
  done backtracking
  done 1st preparation
  done 2nd preparation
- done solver; etatot=   7.8517246639962200E-003 ; average |eta|=   4.7413796280170409E-006
+ done solver; etatot=  0.10895454850794037      ; average |eta|=   6.5793809485471233E-005
  done solving momentum eq...
  done solving w
  done tracer transport...
@@ -80,7 +80,7 @@ TIME STEP=            2;  TIME=           600.000000
  done backtracking
  done 1st preparation
  done 2nd preparation
- done solver; etatot=   1.7178414965016899E-002 ; average |eta|=   1.0373438988536774E-005
+ done solver; etatot=  0.27427781247282912      ; average |eta|=   1.6562669835315768E-004
  done solving momentum eq...
  done solving w
  done tracer transport...
@@ -94,7 +94,7 @@ TIME STEP=            3;  TIME=           900.000000
  done backtracking
  done 1st preparation
  done 2nd preparation
- done solver; etatot=   3.0365914591869932E-002 ; average |eta|=   1.8336904946781361E-005
+ done solver; etatot=  0.51691841528264304      ; average |eta|=   3.1214880149918060E-004
  done solving momentum eq...
  done solving w
  done tracer transport...
@@ -108,7 +108,7 @@ TIME STEP=            4;  TIME=          1200.000000
  done backtracking
  done 1st preparation
  done 2nd preparation
- done solver; etatot=   4.7212667877580508E-002 ; average |eta|=   2.8510065143466491E-005
+ done solver; etatot=  0.85928951450408619      ; average |eta|=   5.1889463436237090E-004
  done solving momentum eq...
  done solving w
  done tracer transport...
@@ -122,7 +122,7 @@ TIME STEP=            5;  TIME=          1500.000000
  done backtracking
  done 1st preparation
  done 2nd preparation
- done solver; etatot=   6.7407533145179874E-002 ; average |eta|=   4.0705032092499926E-005
+ done solver; etatot=   1.3188410003157685      ; average |eta|=   7.9640157023899065E-004
  done solving momentum eq...
  done solving w
  done tracer transport...
@@ -136,7 +136,7 @@ TIME STEP=            6;  TIME=          1800.000000
  done backtracking
  done 1st preparation
  done 2nd preparation
- done solver; etatot=   8.9646519424682797E-002 ; average |eta|=   5.4134371633262555E-005
+ done solver; etatot=   1.8914038015098800      ; average |eta|=   1.1421520540518598E-003
  done solving momentum eq...
  done solving w
  done tracer transport...
@@ -150,7 +150,7 @@ TIME STEP=            7;  TIME=          2100.000000
  done backtracking
  done 1st preparation
  done 2nd preparation
- done solver; etatot=  0.11317275387394021      ; average |eta|=   6.8341034948031531E-005
+ done solver; etatot=   2.5858643278487201      ; average |eta|=   1.5615122752709663E-003
  done solving momentum eq...
  done solving w
  done tracer transport...
@@ -164,7 +164,7 @@ TIME STEP=            8;  TIME=          2400.000000
  done backtracking
  done 1st preparation
  done 2nd preparation
- done solver; etatot=  0.13672677863107474      ; average |eta|=   8.2564479849682820E-005
+ done solver; etatot=   3.4053235890008686      ; average |eta|=   2.0563548242758869E-003
  done solving momentum eq...
  done solving w
  done tracer transport...
@@ -178,7 +178,7 @@ TIME STEP=            9;  TIME=          2700.000000
  done backtracking
  done 1st preparation
  done 2nd preparation
- done solver; etatot=  0.15940752992627102      ; average |eta|=   9.6260585704269945E-005
+ done solver; etatot=   4.3427177270397408      ; average |eta|=   2.6224140863766550E-003
  done solving momentum eq...
  done solving w
  done tracer transport...
@@ -192,7 +192,7 @@ TIME STEP=           10;  TIME=          3000.000000
  done backtracking
  done 1st preparation
  done 2nd preparation
- done solver; etatot=  0.18115896095175432      ; average |eta|=   1.0939550782110768E-004
+ done solver; etatot=   5.4007818405105139      ; average |eta|=   3.2613416911295373E-003
  done solving momentum eq...
  done solving w
  done tracer transport...
@@ -206,7 +206,7 @@ TIME STEP=           11;  TIME=          3300.000000
  done backtracking
  done 1st preparation
  done 2nd preparation
- done solver; etatot=  0.20205260236830702      ; average |eta|=   1.2201244104366366E-004
+ done solver; etatot=   6.5742114713925117      ; average |eta|=   3.9699344634012753E-003
  done solving momentum eq...
  done solving w
  done tracer transport...
@@ -220,7 +220,7 @@ TIME STEP=           12;  TIME=          3600.000000
  done backtracking
  done 1st preparation
  done 2nd preparation
- done solver; etatot=  0.22231455863372429      ; average |eta|=   1.3424792188026829E-004
+ done solver; etatot=   7.8444229483373888      ; average |eta|=   4.7369703794307907E-003
  done solving momentum eq...
  done solving w
  done tracer transport...
@@ -234,7 +234,7 @@ TIME STEP=           13;  TIME=          3900.000000
  done backtracking
  done 1st preparation
  done 2nd preparation
- done solver; etatot=  0.24184568073907339      ; average |eta|=   1.4604207774098635E-004
+ done solver; etatot=   9.1964704490016516      ; average |eta|=   5.5534241841797413E-003
  done solving momentum eq...
  done solving w
  done tracer transport...
@@ -248,7 +248,7 @@ TIME STEP=           14;  TIME=          4200.000000
  done backtracking
  done 1st preparation
  done 2nd preparation
- done solver; etatot=  0.26161353468388360      ; average |eta|=   1.5797918761104081E-004
+ done solver; etatot=   10.625144909862151      ; average |eta|=   6.4161503078877724E-003
  done solving momentum eq...
  done solving w
  done tracer transport...
@@ -262,7 +262,7 @@ TIME STEP=           15;  TIME=          4500.000000
  done backtracking
  done 1st preparation
  done 2nd preparation
- done solver; etatot=  0.28310084560980081      ; average |eta|=   1.7095461691413094E-004
+ done solver; etatot=   12.125682000163684      ; average |eta|=   7.3222717392292776E-003
  done solving momentum eq...
  done solving w
  done tracer transport...
@@ -276,7 +276,7 @@ TIME STEP=           16;  TIME=          4800.000000
  done backtracking
  done 1st preparation
  done 2nd preparation
- done solver; etatot=  0.30638472042954956      ; average |eta|=   1.8501492779562172E-004
+ done solver; etatot=   13.705656217592505      ; average |eta|=   8.2763624502370202E-003
  done solving momentum eq...
  done solving w
  done tracer transport...
@@ -284,59 +284,3 @@ TIME STEP=           16;  TIME=          4800.000000
  done recomputing levels...
  done density and flux calculation...
 TIME STEP=           17;  TIME=          5100.000000
- done adjusting wind stress ...
- done flow b.c.
- done hvis... 
- done backtracking
- done 1st preparation
- done 2nd preparation
- done solver; etatot=  0.33226330392429215      ; average |eta|=   2.0064209174172233E-004
- done solving momentum eq...
- done solving w
- done tracer transport...
- done solving transport equation
- done recomputing levels...
- done density and flux calculation...
-TIME STEP=           18;  TIME=          5400.000000
- done adjusting wind stress ...
- done flow b.c.
- done hvis... 
- done backtracking
- done 1st preparation
- done 2nd preparation
- done solver; etatot=  0.36224005376135654      ; average |eta|=   2.1874399381724430E-004
- done solving momentum eq...
- done solving w
- done tracer transport...
- done solving transport equation
- done recomputing levels...
- done density and flux calculation...
-TIME STEP=           19;  TIME=          5700.000000
- done adjusting wind stress ...
- done flow b.c.
- done hvis... 
- done backtracking
- done 1st preparation
- done 2nd preparation
- done solver; etatot=  0.39653029205847745      ; average |eta|=   2.3945065945560231E-004
- done solving momentum eq...
- done solving w
- done tracer transport...
- done solving transport equation
- done recomputing levels...
- done density and flux calculation...
-TIME STEP=           20;  TIME=          6000.000000
- done adjusting wind stress ...
- done flow b.c.
- done hvis... 
- done backtracking
- done 1st preparation
- done 2nd preparation
- done solver; etatot=  0.43457235660637528      ; average |eta|=   2.6242292065602370E-004
- done solving momentum eq...
- done solving w
- done tracer transport...
- done solving transport equation
- done recomputing levels...
- done density and flux calculation...
-TIME STEP=           21;  TIME=          6300.000000
